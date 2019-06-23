@@ -1,0 +1,19 @@
+{
+  "name": "vendor/bees-in-the-trap",
+  "description": "Bees in The Trap Game",
+  "type": "composer",
+  "autoload": {
+    "psr-4": {
+      "Bees\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Lefteris Delimitrou",
+      "email": "eldelielev@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "phpunit/phpunit": "^8"
+  }
+}
